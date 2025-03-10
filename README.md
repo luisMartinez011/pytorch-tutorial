@@ -1,6 +1,9 @@
 # pytorch-tutorial
 I am learning PyTorch, and I'll store the projects and code I use to learn in my path :p
 
+# Folders
+* Excercise: Exercises from https://www.learnpytorch.io/ to be completed by myself
+
 # References
 https://www.learnpytorch.io/
 
